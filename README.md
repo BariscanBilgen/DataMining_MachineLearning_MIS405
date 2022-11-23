@@ -1,5 +1,10 @@
 # Data Mining
 These are python applications belonging to the data mining course of the Management Information Systems department.
+
+```
+Scaling And Normalization -> Read The Dates, Data Consistency
+Example -> EDA With The Titanic Dataset
+```
 ```
 Classification -> k-NN(Nearest Neighbours), Naive Bayes, Decision Trees
 ```
