@@ -23,7 +23,9 @@ Cluster analysis -> K-means, DBSCAN
 ```
 
 ```
-Dimensionality Reduction -> PCA (Principle Component Analysis), LDA (Linear Discriminant Analysis), t-SNE: (t-distributed stochastic neighbor embedding)
+Dimensionality Reduction -> PCA (Principle Component Analysis), 
+                            LDA (Linear Discriminant Analysis), 
+                            t-SNE: (t-distributed stochastic neighbor embedding)
 ```
 
 ```
