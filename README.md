@@ -6,7 +6,8 @@ Association Analysis -> APRIORI, ECLAT, FP Growth
 ```
 
 ```
-Time Series Decomposition -> ARIMA (Autoregressive Integrated Moving Average), MLP (Multi Layer Perceptron)
+Time Series Decomposition -> ARIMA (Autoregressive Integrated Moving Average), 
+                             MLP (Multi Layer Perceptron)
 ```
 
 ```
