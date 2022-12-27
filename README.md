@@ -2,6 +2,14 @@
 These are python applications belonging to the data mining course of the Management Information Systems department.
 
 ```
+Feature Importance -> Feature Extraction, Shap
+```
+
+```
+Text Mining -> Sentiment Classification, Sentiment Scoring
+```
+
+```
 Association Analysis -> APRIORI, ECLAT, FP Growth
 ```
 
