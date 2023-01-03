@@ -2,7 +2,11 @@
 These are python applications belonging to the data mining course of the Management Information Systems department.
 
 ```
-Feature Importance -> Feature Extraction, Shap
+NLP -> Feature Extraction, Shap
+```
+
+```
+Feature Importance -> Classification of SMS and Mail messages as spam / "not spam"
 ```
 
 ```
