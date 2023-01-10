@@ -2,6 +2,10 @@
 These are python applications belonging to the data mining course of the Management Information Systems department.
 
 ```
+Machine Learning Models -> Logistic Regression, Support Vector Machines, K-Nearest Neighbors, Gaussian Naive Bayes, Perceptron, Linear SVC, Stochastic Gradient Descent, Decision Tree, Random Forest, XGBoost
+```
+
+```
 NLP -> Feature Extraction, Shap
 ```
 
